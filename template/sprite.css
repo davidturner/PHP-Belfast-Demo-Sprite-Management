@@ -1,0 +1,22 @@
+{#common}
+%{common}, .{common} {
+  background-image: url("{svgPath}");
+  background-repeat: no-repeat;
+  font-size: 10px;
+  background-size: {relWidth}em {relHeight}em;
+
+  .no-svg & {
+    background-image: url("{pngPath}");
+  }
+}
+{/common}
+{#svg}
+%{name}, .{name}:before {
+  background-position: {relPositionX}em {relPositionY}em;
+}
+%{name} {
+  background-position: {relPositionX}em {relPositionY}em;
+  width: {relWidth}em;
+  height: {relHeight}em;
+}
+{/svg}

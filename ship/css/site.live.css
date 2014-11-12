@@ -1,0 +1,10 @@
+@charset "UTF-8";/*!
+ * Gulp Invited
+ * https://getinvited.to/
+ * @author Get Invited Ltd
+ * @version 0.0.2.1415623689296
+ * Copyright © 2014
+ * Slate Framework v0.0.2 | MIT License | davidturner.name
+ * normalize.css v2.1.0 | MIT License | git.io/normalize
+ */
+*{margin:0 auto}html{background:#f9f9f9;font-family:sans-serif}img{max-width:100%}.icon{background-image:url(../img/sprite.svg);background-repeat:no-repeat;font-size:10px;background-size:4.5em 54em}.no-svg .icon{background-image:url(../img/sprite.png)}.icon-close:before{background-position:0 0}.icon-edit:before{background-position:0 -3.9em}.icon-email:before{background-position:0 -8.3em}.icon-files:before{background-position:0 -12.1em}.icon-location-blue:before{background-position:0 -16.3em}.icon-lock:before{background-position:0 -20.1em}.icon-menu:before{background-position:0 -23.7em}.icon-minus:before{background-position:0 -26.9em}.icon-navigateleft:before{background-position:0 -29.1em}.icon-panel-minus:before{background-position:0 -32.7em}.icon-panel-plus:before{background-position:0 -35em}.icon-plus:before{background-position:0 -39.5em}.icon-search:before{background-position:0 -42.7em}.icon-small-check:before{background-position:0 -46.6em}.icon-trash:before{background-position:0 -49.8em}.main-wrapper{width:300px;margin:0 auto;background:#fff;border-radius:3px;padding:2em}h1{margin:1em 0 .5em}p{margin-bottom:1em}

@@ -1,0 +1,149 @@
+
+%icon, .icon {
+  background-image: url("../img/sprite.svg");
+  background-repeat: no-repeat;
+  font-size: 10px;
+  background-size: 4.5em 54em;
+
+  .no-svg & {
+    background-image: url("../img/sprite.png");
+  }
+}
+
+
+
+
+%icon-close, .icon-close:before {
+  background-position: 0em 0em;
+}
+%icon-close {
+  background-position: 0em 0em;
+  width: 3.8em;
+  height: 3.9em;
+}
+
+%icon-edit, .icon-edit:before {
+  background-position: 0em -3.9em;
+}
+%icon-edit {
+  background-position: 0em -3.9em;
+  width: 4.4em;
+  height: 4.4em;
+}
+
+%icon-email, .icon-email:before {
+  background-position: 0em -8.3em;
+}
+%icon-email {
+  background-position: 0em -8.3em;
+  width: 4.3em;
+  height: 3.8em;
+}
+
+%icon-files, .icon-files:before {
+  background-position: 0em -12.1em;
+}
+%icon-files {
+  background-position: 0em -12.1em;
+  width: 3.9em;
+  height: 4.2em;
+}
+
+%icon-location-blue, .icon-location-blue:before {
+  background-position: 0em -16.3em;
+}
+%icon-location-blue {
+  background-position: 0em -16.3em;
+  width: 3.3em;
+  height: 3.8em;
+}
+
+%icon-lock, .icon-lock:before {
+  background-position: 0em -20.1em;
+}
+%icon-lock {
+  background-position: 0em -20.1em;
+  width: 3.2em;
+  height: 3.6em;
+}
+
+%icon-menu, .icon-menu:before {
+  background-position: 0em -23.7em;
+}
+%icon-menu {
+  background-position: 0em -23.7em;
+  width: 3.7em;
+  height: 3.2em;
+}
+
+%icon-minus, .icon-minus:before {
+  background-position: 0em -26.9em;
+}
+%icon-minus {
+  background-position: 0em -26.9em;
+  width: 3.3em;
+  height: 2.2em;
+}
+
+%icon-navigateleft, .icon-navigateleft:before {
+  background-position: 0em -29.1em;
+}
+%icon-navigateleft {
+  background-position: 0em -29.1em;
+  width: 3.1em;
+  height: 3.6em;
+}
+
+%icon-panel-minus, .icon-panel-minus:before {
+  background-position: 0em -32.7em;
+}
+%icon-panel-minus {
+  background-position: 0em -32.7em;
+  width: 4.5em;
+  height: 2.3em;
+}
+
+%icon-panel-plus, .icon-panel-plus:before {
+  background-position: 0em -35em;
+}
+%icon-panel-plus {
+  background-position: 0em -35em;
+  width: 4.5em;
+  height: 4.5em;
+}
+
+%icon-plus, .icon-plus:before {
+  background-position: 0em -39.5em;
+}
+%icon-plus {
+  background-position: 0em -39.5em;
+  width: 3.2em;
+  height: 3.2em;
+}
+
+%icon-search, .icon-search:before {
+  background-position: 0em -42.7em;
+}
+%icon-search {
+  background-position: 0em -42.7em;
+  width: 3.9em;
+  height: 3.9em;
+}
+
+%icon-small-check, .icon-small-check:before {
+  background-position: 0em -46.6em;
+}
+%icon-small-check {
+  background-position: 0em -46.6em;
+  width: 3.4em;
+  height: 3.2em;
+}
+
+%icon-trash, .icon-trash:before {
+  background-position: 0em -49.8em;
+}
+%icon-trash {
+  background-position: 0em -49.8em;
+  width: 4em;
+  height: 4.2em;
+}
